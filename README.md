@@ -22,3 +22,4 @@ This program abuses the discord api and uses the [2Captcha](https://2captcha.com
 ## Todo
 - Add An Option To Run With Proxies
 - Improve Code Formatting
+- Solve Captchas Localy
