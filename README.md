@@ -12,6 +12,10 @@ This program abuses the discord api and uses the [2Captcha](https://2captcha.com
     - Buy About 1$'s Worth Of Captcha Solves [Here](https://2captcha.com?from=11240415)
     - Enter Your Api Key Where Indicated In The Config File
 
+## Purpose
+> This Was Made For People Who Have Those Account Verifier Things, It Makes Everything 10x Easier.
+> You Can Sell These Accounts To People Who Mass Email Verify Them.
+
 ## Usage
 - Run The Following Command To Start The Account Gen
     - python3 Account.py
