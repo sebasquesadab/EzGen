@@ -1,5 +1,5 @@
 # EzGen
-#### If you find the tool usefull, star or follow :sunglasses: 
+#### If you find the tool usefull, star or follow __if you want to__ :sunglasses: 
 ## _Open Source Discord Account Creator_
 
 This program abuses the discord api and uses the [2Captcha](https://2captcha.com?from=11240415) captcha solving service to make discord user accounts.
