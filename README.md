@@ -1,0 +1,2 @@
+# EzGen
+Discord Token Generator
