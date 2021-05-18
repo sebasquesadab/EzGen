@@ -5,7 +5,7 @@ This program abuses the discord api and uses the [2Captcha](https://2captcha.com
 
 ## Installation
 
-- Install Python From [Here](https://[python.org])
+- Install Python From [Here](https://python.org)
 - Run The Following Commands To Install Required Modules And Setup The Program
     - pip3 install colorama
     - pip3 install requests
