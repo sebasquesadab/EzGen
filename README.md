@@ -1,5 +1,4 @@
 # EzGen
-#### If you find the tool usefull, star or follow __if you want to__ :sunglasses: 
 ## _Open Source Discord Account Creator_
 
 This program abuses the discord api and uses the [2Captcha](https://2captcha.com?from=11240415) captcha solving service to make discord user accounts.
@@ -23,6 +22,8 @@ This program abuses the discord api and uses the [2Captcha](https://2captcha.com
 
 ## Preview
 ![img](https://media.discordapp.net/attachments/797210691688988722/844224938277994524/unknown.png?width=810&height=447)
+
+#### If you find the tool usefull, star or follow __if you want to__ :sunglasses: 
 
 ## Todo
 - Add An Option To Run With Proxies
